@@ -20,7 +20,9 @@ import java.net.URL;
 
 public class MainActivity extends Activity {
 
-    /** Called when the activity is first created. */
+    /**
+     * 文件下载
+     */
     private ProgressBar pb1 = null;
     private TextView tv1 = null;
     private ProgressBar pb2 = null;
